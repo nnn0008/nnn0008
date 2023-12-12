@@ -1,7 +1,5 @@
-<h1 align="center">I'm nnn0008</h1>
+<h1 align="center">nnn008</h1>
 <h3 align="center">풀스택 개발자 지망생</h3>
-
-- 🌱 I’m currently learning **Spring Framework, Full-stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
