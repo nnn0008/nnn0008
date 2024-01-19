@@ -1,5 +1,5 @@
 <h1 align="center">nnn008</h1>
-<h3 align="center">풀스택 개발자 지망생</h3>
+<h3 align="center">백엔드 개발자 지망생</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
